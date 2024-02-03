@@ -1,12 +1,10 @@
 let nm = readLine()!.split(separator: " ").map { Int($0)! }
-let (n, m) = (nm[0], nm[1])
-var a = Set<String>()
-var b = Set<String>()
+var a = Set<String>(), b = Set<String>()
 var result = ""
-for _ in 0..<n+m {
+for _ in 0..<nm[0]+nm[1] {
     let name = readLine()!
-    a.contains(name) ? b.insert(name) : a.insert(name)
+    let _ = a.contains(name) ? b.insert(name) : a.insert(name)
 }
 print(b.count)
-b.sorted().forEach { result.append("\($0)\n") }
+for c in b.sorted() { result.append("\(c)\n") }
 print(result)
