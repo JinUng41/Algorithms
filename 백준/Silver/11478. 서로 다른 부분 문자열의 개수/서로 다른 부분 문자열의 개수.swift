@@ -1,4 +1,4 @@
-let s = readLine()!.map { $0 }
+let s = readLine()!.map { String($0) }
 var a = Set<String>()
 for i in 0..<s.count {
     var ss = ""
