@@ -36,3 +36,4 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## 분리집합
 
 [거짓말 - 1043](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1043.%E2%80%85%EA%B1%B0%EC%A7%93%EB%A7%90)   
+[집합의 표현 - 1717](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1717.%E2%80%85%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84)   
