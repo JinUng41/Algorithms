@@ -17,6 +17,10 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 [한수 - 1065](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98)   
 
+## 그리디 알고리즘
+
+[동전 0 - 11047](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850)   
+
 ## 큐
 
 [프린터 큐 - 1966](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1966.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0%E2%80%85%ED%81%90)   
