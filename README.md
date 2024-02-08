@@ -26,6 +26,10 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 [프린터 큐 - 1966](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1966.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0%E2%80%85%ED%81%90)   
 
+## 스택
+
+[스택 수열 - 1874](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1874.%E2%80%85%EC%8A%A4%ED%83%9D%E2%80%85%EC%88%98%EC%97%B4)   
+
 ## 이분탐색
 
 [게임 - 1072](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1072.%E2%80%85%EA%B2%8C%EC%9E%84)   
