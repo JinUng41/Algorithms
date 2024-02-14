@@ -25,6 +25,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## 큐
 
 [프린터 큐 - 1966](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1966.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0%E2%80%85%ED%81%90)   
+[카드2 - 2164](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2)   
 
 ## 스택
 
