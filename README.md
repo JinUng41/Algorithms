@@ -21,6 +21,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## 그리디 알고리즘
 
 [동전 0 - 11047](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850)   
+[사탕 - 11256](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11256.%E2%80%85%EC%82%AC%ED%83%95)   
 
 ## 큐
 
