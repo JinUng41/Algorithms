@@ -1,28 +1,21 @@
-let t = Int(readLine()!)! // 테스트 케이스
+let t = Int(readLine()!)!
 for _ in 0..<t {
-    let n = Int(readLine()!)! // 후보자 수
-    var votes = [Int]() // 투표 내용 (번호, 투표수)
-    var sum = 0 // 총 투표수
-    var voteSet = Set<Int>()
+    let n = Int(readLine()!)!
+    var votes = [Int]()
+    var voteSum = 0
+    var count = 0
     for _ in 1...n {
         let number = Int(readLine()!)!
         votes.append(number)
-        sum += number
-        voteSet.insert(number)
+        voteSum += number
     }
+    let maxVote = votes.max()!
+    for i in votes { if i == maxVote { count += 1 } }
     
-    let maxNumber = voteSet.max()!
-    let filter = votes.filter { $0 == maxNumber }
-    
-    if voteSet.count == 1 || filter.count != 1 { // 무승부
-        print("no winner")
-        continue
-    }
-    
-    let index = votes.firstIndex { $0 == maxNumber }! + 1
-    if Double(maxNumber) > Double(sum) / 2.0 {
-        print("majority winner \(index)")
+    if count == 1 {
+        let index = votes.firstIndex(of: maxVote)! + 1
+        print(maxVote * 2 > voteSum ? "majority winner \(index)" : "minority winner \(index)")
     } else {
-        print("minority winner \(index)")
+        print("no winner")
     }
 }
