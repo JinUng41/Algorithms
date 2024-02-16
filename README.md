@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [단어 정렬 - 1181](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1181.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC)   
 [소트인사이드 - 1427](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1427.%E2%80%85%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C)   
 [듣보잡 - 1764](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1764.%E2%80%85%EB%93%A3%EB%B3%B4%EC%9E%A1)   
+[차집합 - 1822](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1822.%E2%80%85%EC%B0%A8%EC%A7%91%ED%95%A9)   
 [수 찾기 - 1920](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1920.%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)   
 [수 정렬하기 2 - 2751](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2751.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852)   
 [나이순 정렬 - 10814](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/10814.%E2%80%85%EB%82%98%EC%9D%B4%EC%88%9C%E2%80%85%EC%A0%95%EB%A0%AC)   
