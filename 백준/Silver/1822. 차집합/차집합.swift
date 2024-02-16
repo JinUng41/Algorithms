@@ -1,6 +1,6 @@
 let _ = readLine()
-let setA = Set(readLine()!.split(separator: " ").map { Int($0)! })
-let setB = Set(readLine()!.split(separator: " ").map { Int($0)! })
-let result = setA.subtracting(setB).sorted()
-print(result.count)
-result.forEach { print($0, terminator: " ") }
+let a = Set(readLine()!.split(separator: " ").map { Int($0)! })
+let b = Set(readLine()!.split(separator: " ").map { Int($0)! })
+let z = a.subtracting(b).sorted().map { String($0) }
+print(z.count)
+print(z.joined(separator: " "))
