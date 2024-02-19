@@ -45,6 +45,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 [랜선 자르기 - 1654](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1654.%E2%80%85%EB%9E%9C%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0)   
 [풍선 공장 - 15810](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/15810.%E2%80%85%ED%92%8D%EC%84%A0%E2%80%85%EA%B3%B5%EC%9E%A5)   
+[어깨동무 - 27932](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/27932.%E2%80%85%EC%96%B4%EA%B9%A8%EB%8F%99%EB%AC%B4) ⭐⭐⭐   
 
 ## 너비우선탐색
 
