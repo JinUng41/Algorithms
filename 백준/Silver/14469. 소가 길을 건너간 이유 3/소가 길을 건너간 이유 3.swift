@@ -2,8 +2,8 @@ typealias Cow = (x: Int, y: Int)
 let n = Int(readLine()!)!
 var a = [Cow]()
 for _ in 0..<n {
-    let cow = readLine()!.split(separator: " ").map { Int($0)! }
-    a.append((cow[0], cow[1]))
+    let b = readLine()!.split(separator: " ").map { Int($0)! }
+    a.append((b[0], b[1]))
 }
 a.sort { $0.x < $1.x }
 var z = 0
