@@ -51,7 +51,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ## 우선순위 큐
 
-[최소 힙 - 1927](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1927.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99)  
+[최소 힙 - 1927](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1927.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99)   
+[콘센트 - 23843](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/23843.%E2%80%85%EC%BD%98%EC%84%BC%ED%8A%B8)   
 
 <br>
  
