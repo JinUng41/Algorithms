@@ -47,6 +47,10 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [풍선 공장 - 15810](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/15810.%E2%80%85%ED%92%8D%EC%84%A0%E2%80%85%EA%B3%B5%EC%9E%A5)   
 [어깨동무 - 27932](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/27932.%E2%80%85%EC%96%B4%EA%B9%A8%EB%8F%99%EB%AC%B4) ⭐⭐   
 
+## 깊이우선탐색
+
+[알고리즘 수업 - 깊이 우선 탐색 1 - 24479](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/24479.%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%E2%80%85%EC%88%98%EC%97%85%E2%80%85%EF%BC%8D%E2%80%85%EA%B9%8A%EC%9D%B4%E2%80%85%EC%9A%B0%EC%84%A0%E2%80%85%ED%83%90%EC%83%89%E2%80%851)   
+
 ## 너비우선탐색
 
 [미로 탐색 - 2178](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver%20I/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89)   
