@@ -49,11 +49,11 @@ if m < n {
     var charging = Heap<Int>(by: <)
     for i in 0..<m { charging.enheap(devices[i]) }
     for i in m..<n {
-        let minCharging = charging.deheap()! // 가장 적게 충전된 기기의 충전 시간
-        charging.enheap(minCharging + devices[i]) // 다음 기기를 충전
+        let minCharging = charging.deheap()!
+        charging.enheap(minCharging + devices[i])
     }
     while charging.count != 1 { let _ = charging.deheap() }
     print(charging.peek!)
 } else {
-    print(devices.first!)
+    print(devices[0])
 }
