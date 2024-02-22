@@ -62,5 +62,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 [최단경로 - 1753](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1753.%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)   
 
-## 다이내믹 프로그래밍
+## 다이나믹 프로그래밍
 [부녀회장이 될테야 - 2775](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2775.%E2%80%85%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%E2%80%85%EB%90%A0%ED%85%8C%EC%95%BC)   
