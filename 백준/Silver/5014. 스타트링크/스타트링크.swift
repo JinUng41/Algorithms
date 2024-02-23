@@ -25,13 +25,12 @@ func solution(_ fsgud: [Int]) -> String {
         if currentFloor == g { return "\(buttonPresses)" }
         
         let up = currentFloor + u
-        let down = currentFloor - d
-        
         if up <= f && !isVisited[up] {
             isVisited[up] = true
             q.enq((up, buttonPresses + 1))
         }
         
+        let down = currentFloor - d
         if down >= 1 && !isVisited[down] {
             isVisited[down] = true
             q.enq((down, buttonPresses + 1))
