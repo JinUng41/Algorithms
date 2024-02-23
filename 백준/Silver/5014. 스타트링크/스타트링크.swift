@@ -19,21 +19,21 @@ func solution(_ fsgud: [Int]) -> String {
     
     while !q.isEmpty {
         let current = q.deq()
-        let currentFloor = current.0
-        let buttonPresses = current.1
+        let floor = current.0
+        let count = current.1
         
-        if currentFloor == g { return "\(buttonPresses)" }
+        if floor == g { return "\(count)" }
         
-        let up = currentFloor + u
+        let up = floor + u
         if up <= f && !isVisited[up] {
             isVisited[up] = true
-            q.enq((up, buttonPresses + 1))
+            q.enq((up, count + 1))
         }
         
-        let down = currentFloor - d
+        let down = floor - d
         if down >= 1 && !isVisited[down] {
             isVisited[down] = true
-            q.enq((down, buttonPresses + 1))
+            q.enq((down, count + 1))
         }
     }
     return "use the stairs"
