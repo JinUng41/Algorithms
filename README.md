@@ -25,6 +25,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## 브루트포스
 
 [한수 - 1065](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98)   
+[영화감독 숌 - 1436](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C)   
 
 <br>
 
