@@ -12,10 +12,9 @@ struct Queue<T> {
         return output.removeLast()
     }
 }
-typealias Info = (String, Int)
 func BOJ_29813() {
     let n = Int(readLine()!)!
-    var q = Queue<Info>()
+    var q = Queue<(String, Int)>()
     for _ in 0..<n {
         let input = readLine()!.split(separator: " ").map { String($0) }
         q.enq((input[0], Int(input[1])!))
