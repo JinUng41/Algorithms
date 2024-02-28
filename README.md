@@ -96,6 +96,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## 다익스트라, 최단경로
 
 [최단경로 - 1753](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1753.%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)   
+[최소비용 구하기 - 1916](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1916.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)   
 
 <br>
  
