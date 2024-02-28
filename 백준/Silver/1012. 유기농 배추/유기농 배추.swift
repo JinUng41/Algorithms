@@ -1,10 +1,8 @@
 struct Queue<T> {
-    private var input: [T]
+    private var input = [T]()
     private var output = [T]()
     
     var isEmpty: Bool { input.isEmpty && output.isEmpty }
-    
-    init(_ input: [T] = []) { self.input = input }
     
     mutating func enqueue(_ new: T) { input.append(new) }
     
