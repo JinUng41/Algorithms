@@ -103,3 +103,4 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
  
 ## 다이나믹 프로그래밍
 [부녀회장이 될테야 - 2775](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2775.%E2%80%85%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%E2%80%85%EB%90%A0%ED%85%8C%EC%95%BC)   
+[1로 만들기 - 1463](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1463.%E2%80%851%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)   
