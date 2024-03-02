@@ -22,10 +22,10 @@ struct Deque<T> {
 }
 func BOJ_18115() {
     _ = readLine()
-    let sequences = readLine()!.split(separator: " ").map { Int($0)! }
+    let sequences = readLine()!.split(separator: " ").map { Int($0)! }.reversed()
     
     var d = Deque<Int>()
-    for (index, sequence) in sequences.reversed().enumerated() {
+    for (index, sequence) in sequences.enumerated() {
         let idx = index + 1
         switch sequence {
         case 2:
