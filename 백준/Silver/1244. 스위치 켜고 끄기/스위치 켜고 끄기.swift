@@ -13,7 +13,7 @@ func BOJ_1244() {
             for i in stride(from: plug, through: plugNumber, by: plug) { toggle(i) }
         } else {
             toggle(plug)
-            for i in 0..<(plugNumber) {
+            for i in 0..<(plugNumber / 2) {
                 let a = plug + i, b = plug - i
                 
                 if a > plugNumber || b < 1 { break }
