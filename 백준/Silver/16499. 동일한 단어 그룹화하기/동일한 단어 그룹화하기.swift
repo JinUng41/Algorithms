@@ -1,10 +1,7 @@
 func BOJ_16499() {
     let N = Int(readLine()!)!
-    var set = Set<String>()
-    for _ in 0..<N {
-        let input = readLine()!.sorted().map { String($0) }.joined()
-        set.insert(input)
-    }
-    print(set.count)
+    var a = Set<String>()
+    for _ in 0..<N { a.insert(readLine()!.sorted().map { String($0) }.joined()) }
+    print(a.count)
 }
 BOJ_16499()
