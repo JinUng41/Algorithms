@@ -1,4 +1,4 @@
-func solution() {
+func BOJ_2002() {
     var inCars = [String]()
     var outCars = [String]()
     let n = Int(readLine()!)!
@@ -13,10 +13,6 @@ func solution() {
         let inFirst = inCars.last!
         let outFirst = outCars.last!
         
-//        print(">>> in: \(inCars) : \(#function)")
-//        print(">>> out: \(outCars) : \(#function)")
-//        print(">>> set: \(carList) : \(#function)")
-
         if carList.contains(inFirst) {
             inCars.removeLast()
         } else if inFirst == outFirst {
@@ -31,4 +27,4 @@ func solution() {
     }
     print(count)
 }
-solution()
+BOJ_2002()
