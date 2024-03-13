@@ -1,15 +1,12 @@
 func BOJ_25556() {
     let N = Int(readLine()!)!
     let A = readLine()!.split(separator: " ").map { Int($0)! }
-    var a = [Int](), b = [Int](), c = [Int](), d = [Int]()
-    
+    var stacks = [[Int]](repeating: [0], count: 4)
     for i in 0..<N {
-        let temp = A[i]
-        if a.isEmpty || a.last! < temp { a.append(temp) }
-        else if b.isEmpty || b.last! < temp { b.append(temp) }
-        else if c.isEmpty || c.last! < temp { c.append(temp) }
-        else if d.isEmpty || d.last! < temp { d.append(temp) }
-        else { print("NO"); return }
+        for j in 0..<4 {
+            if stacks[j].last! < A[i] { stacks[j].append(A[i]); break }
+            else if j == 3, stacks[j].last! > A[i] { print("NO"); return }
+        }
     }
     print("YES")
 }
