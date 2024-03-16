@@ -1,8 +1,7 @@
 func BOJ_25192() {
-    let N = Int(readLine()!)!
     var a = Set<String>()
     var b = 0
-    for _ in 0..<N {
+    for _ in 0..<Int(readLine()!)! {
         let input = readLine()!
         if input == "ENTER" {
             a.removeAll()
