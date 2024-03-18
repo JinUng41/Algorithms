@@ -18,6 +18,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [좌표 정렬하기 - 11650](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11650.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)   
 [좌표 정렬하기 2 - 11651](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11651.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852)   
 [소가 길을 건너간 이유 3 - 14469](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/14469.%E2%80%85%EC%86%8C%EA%B0%80%E2%80%85%EA%B8%B8%EC%9D%84%E2%80%85%EA%B1%B4%EB%84%88%EA%B0%84%E2%80%85%EC%9D%B4%EC%9C%A0%E2%80%853)   
+[모바일 광고 입찰 - 31246](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/31246.%E2%80%85%EB%AA%A8%EB%B0%94%EC%9D%BC%E2%80%85%EA%B4%91%EA%B3%A0%E2%80%85%EC%9E%85%EC%B0%B0)   
 
 
 <br>
