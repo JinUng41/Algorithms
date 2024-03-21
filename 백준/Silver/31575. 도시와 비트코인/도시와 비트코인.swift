@@ -1,6 +1,4 @@
-func BOJ_31575() {
-    let NM = readLine()!.split(separator: " ").map { Int($0)! }
-    let N = NM[0], M = NM[1]
+func BOJ_31575(_ N: Int, _ M: Int) {
     let dx = [0, 1], dy = [1, 0]
     var map = [[Int]]()
     var isVisit = Array(repeating: Array(repeating: false, count: N), count: M)
@@ -16,4 +14,5 @@ func BOJ_31575() {
     dfs(0, 0)
     print(isVisit[M - 1][N - 1] ? "Yes" : "No")
 }
-BOJ_31575()
+let NM = readLine()!.split(separator: " ").map { Int($0)! }
+BOJ_31575(NM[0], NM[1])
