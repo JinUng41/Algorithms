@@ -1,6 +1,5 @@
 func BOJ_16112(_ n: Int, _ k: Int, _ numbers: [Int]) {
     let quests = numbers.sorted()
-    var stones = Array(repeating: 0, count: n + 1)
     var total = 0
     for i in 1..<n {
         let temp = i - k
