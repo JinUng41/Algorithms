@@ -39,6 +39,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [내일 할거야 - 7983](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/7983.%E2%80%85%EB%82%B4%EC%9D%BC%E2%80%85%ED%95%A0%EA%B1%B0%EC%95%BC)   
 [동전 0 - 11047](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850)   
 [사탕 - 11256](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11256.%E2%80%85%EC%82%AC%ED%83%95)   
+[5차 전직 - 16112](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/16112.%E2%80%855%EC%B0%A8%E2%80%85%EC%A0%84%EC%A7%81) ⭐   
 
 <br>
 
