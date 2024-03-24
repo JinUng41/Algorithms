@@ -30,10 +30,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [영화감독 숌 - 1436](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C)   
 [수들의 합 2 - 2003](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2003.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852) ⭐   
 [블랙잭 - 2798](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2798.%E2%80%85%EB%B8%94%EB%9E%99%EC%9E%AD)   
+[셀프 넘버 - 4673](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/4673.%E2%80%85%EC%85%80%ED%94%84%E2%80%85%EB%84%98%EB%B2%84)   
 
 <br>
 
 ## 그리디 알고리즘
+
 [짐 챙기는 숌 - 1817](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1817.%E2%80%85%EC%A7%90%E2%80%85%EC%B1%99%EA%B8%B0%EB%8A%94%E2%80%85%EC%88%8C)   
 [설탕 배달 - 2839](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2839.%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC)   
 [내일 할거야 - 7983](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/7983.%E2%80%85%EB%82%B4%EC%9D%BC%E2%80%85%ED%95%A0%EA%B1%B0%EC%95%BC)   
