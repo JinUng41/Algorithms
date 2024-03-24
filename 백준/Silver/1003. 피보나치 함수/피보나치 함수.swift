@@ -1,9 +1,6 @@
 func BOJ_1003(_ T: Int) {
     var numbers = [Int]()
-    for _ in 0..<T { 
-        numbers.append(Int(readLine()!)!)
-    }
-    let max = numbers.max()!
+    for _ in 0..<T { numbers.append(Int(readLine()!)!) }
     var dp = Array(repeating: (0, 0), count: 41)
     dp[0] = (1, 0)
     dp[1] = (0, 1)
