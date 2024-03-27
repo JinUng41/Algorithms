@@ -1,20 +1,16 @@
-func foo() {
-    let n = Int(readLine()!)!
+func BOJ_10816() {
+    _ = readLine()
     let numbers = readLine()!.split(separator: " ").map { Int($0)! }
-    let m = Int(readLine()!)!
+    _ = readLine()
     let container = readLine()!.split(separator: " ").map { Int($0)! }
     
     var dict = [Int: Int]()
     container.forEach { dict[$0] = 0 }
     
-    numbers.forEach {
-        if let value = dict[$0] {
-            dict[$0]! += 1
-        }
-    }
+    numbers.forEach { if dict[$0] != nil { dict[$0]! += 1 } }
     
     var result = ""
     container.forEach { result.append("\(dict[$0]!) ") }
     print(result)
 }
-foo()
+BOJ_10816()
