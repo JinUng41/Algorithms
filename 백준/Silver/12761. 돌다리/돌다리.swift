@@ -22,8 +22,8 @@ func BOJ_12761(_ input: [Int]) {
             print(count)
             return
         }
-        [now-1, now+1, now-A, now+A, now-B, now+B, now*A, now*B].forEach { new in
-            if new >= 0, new <= 100_000, isVisit[new] == false {
+        for new in [now-1, now+1, now-A, now+A, now-B, now+B, now*A, now*B] {
+            if new >= 0, new <= 100_000, !isVisit[new] {
                 q.enq((new, count+1))
                 isVisit[new] = true
             }
