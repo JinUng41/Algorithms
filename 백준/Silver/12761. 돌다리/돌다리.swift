@@ -13,22 +13,19 @@ struct Queue<T> {
 func BOJ_12761(_ input: [Int]) {
     let A = input[0], B = input[1], N = input[2], M = input[3]
     var isVisit = Array(repeating: false, count: 100_001)
-    var distance = Array(repeating: 0, count: 100_001)
-    var q = Queue<Int>()
-    q.enq(N)
+    var q = Queue<(Int, Int)>()
+    q.enq((N, 0))
     isVisit[N] = true
-    func check(_ n: Int) -> Bool { return n >= 0 && n <= 100_000 && !isVisit[n] }
     while !q.isEmpty {
-        let now = q.deq()
+        let (now, count) = q.deq()
         if now == M {
-            print(distance[now])
+            print(count)
             return
         }
-        for new in [now-1, now+1, now-A, now+A, now-B, now+B, now*A, now*B] {
-            if check(new) {
-                q.enq(new)
+        [now-1, now+1, now-A, now+A, now-B, now+B, now*A, now*B].forEach { new in
+            if new >= 0, new <= 100_000, isVisit[new] == false {
+                q.enq((new, count+1))
                 isVisit[new] = true
-                distance[new] = distance[now]+1
             }
         }
     }
