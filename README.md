@@ -101,6 +101,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 [유기농 배추 - 1012](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1012.%E2%80%85%EC%9C%A0%EA%B8%B0%EB%86%8D%E2%80%85%EB%B0%B0%EC%B6%94)   
 [DFS와 BFS - 1260](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS)   
+[숨바꼭질 - 1697](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1697.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)   
 [미로 탐색 - 2178](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver%20I/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89)   
 [스타트링크 - 5014](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/5014.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC)   
 [상범 빌딩 - 6593](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/6593.%E2%80%85%EC%83%81%EB%B2%94%E2%80%85%EB%B9%8C%EB%94%A9) ⭐   
