@@ -10,7 +10,7 @@ struct Queue<T> {
         return output.removeLast()
     }
 }
-func BOJ_14930(_ n: Int, _ m: Int) {
+func BOJ_14940(_ n: Int, _ m: Int) {
     var map = [[Int]](), new = Array(repeating: Array(repeating: -1, count: m), count: n)
     var isVisit = Array(repeating: Array(repeating: false, count: m), count: n)
     var target = (0, 0)
@@ -49,4 +49,4 @@ func BOJ_14930(_ n: Int, _ m: Int) {
     print(result)
 }
 let nm = readLine()!.split(separator: " ").map { Int($0)! }
-BOJ_14930(nm[0], nm[1])
+BOJ_14940(nm[0], nm[1])
