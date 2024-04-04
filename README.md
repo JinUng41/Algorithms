@@ -110,6 +110,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [나이트의 이동 - 7562](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/7562.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99)   
 [돌다리 - 12761](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/12761.%E2%80%85%EB%8F%8C%EB%8B%A4%EB%A6%AC)   
 [태권왕 - 14562](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/14562.%E2%80%85%ED%83%9C%EA%B6%8C%EC%99%95)   
+[쉬운 최단거리 - 14940](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/14940.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) ⭐   
 [알고리즘 수업 - 너비 우선 탐색 1 - 24444](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/24444.%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%E2%80%85%EC%88%98%EC%97%85%E2%80%85%EF%BC%8D%E2%80%85%EB%84%88%EB%B9%84%E2%80%85%EC%9A%B0%EC%84%A0%E2%80%85%ED%83%90%EC%83%89%E2%80%851)   
 
 <br>
