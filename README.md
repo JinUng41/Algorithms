@@ -142,3 +142,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [달나라 토끼를 위한 구매대금 지불 도우미 - 17212](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/17212.%E2%80%85%EB%8B%AC%EB%82%98%EB%9D%BC%E2%80%85%ED%86%A0%EB%81%BC%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%EA%B5%AC%EB%A7%A4%EB%8C%80%EA%B8%88%E2%80%85%EC%A7%80%EB%B6%88%E2%80%85%EB%8F%84%EC%9A%B0%EB%AF%B8)   
 [리그 오브 레전설 (Small) - 17271](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/17271.%E2%80%85%EB%A6%AC%EA%B7%B8%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%EB%A0%88%EC%A0%84%EC%84%A4%E2%80%85%EF%BC%88Small%EF%BC%89)   
 [투자의 귀재 배주형 - 19947](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/19947.%E2%80%85%ED%88%AC%EC%9E%90%EC%9D%98%E2%80%85%EA%B7%80%EC%9E%AC%E2%80%85%EB%B0%B0%EC%A3%BC%ED%98%95)   
+
+<br>
+
+## 누적합
+[구간 합 구하기 4 - 11659](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11659.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%854)   
