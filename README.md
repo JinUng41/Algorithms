@@ -84,6 +84,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [암기왕 - 2776](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2776.%E2%80%85%EC%95%94%EA%B8%B0%EC%99%95)   
 [나무 자르기 - 2805](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2805.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0)   
 [먹을 것인가 먹힐 것인가 - 7795](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/7795.%E2%80%85%EB%A8%B9%EC%9D%84%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80%E2%80%85%EB%A8%B9%ED%9E%90%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80)   
+[숫자 카드 - 10815](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/10815.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C)   
 [풍선 공장 - 15810](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/15810.%E2%80%85%ED%92%8D%EC%84%A0%E2%80%85%EA%B3%B5%EC%9E%A5)   
 [어깨동무 - 27932](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/27932.%E2%80%85%EC%96%B4%EA%B9%A8%EB%8F%99%EB%AC%B4) ⭐⭐   
 
