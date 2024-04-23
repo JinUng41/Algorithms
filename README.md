@@ -37,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ## 그리디 알고리즘
 
+[국회의원 선거 - 1417](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1417.%E2%80%85%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9B%90%E2%80%85%EC%84%A0%EA%B1%B0)   
 [짐 챙기는 숌 - 1817](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1817.%E2%80%85%EC%A7%90%E2%80%85%EC%B1%99%EA%B8%B0%EB%8A%94%E2%80%85%EC%88%8C)   
 [설탕 배달 - 2839](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2839.%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC)   
 [내일 할거야 - 7983](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/7983.%E2%80%85%EB%82%B4%EC%9D%BC%E2%80%85%ED%95%A0%EA%B1%B0%EC%95%BC)   
