@@ -79,6 +79,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## 우선순위 큐
 
 [최소 힙 - 1927](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1927.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99)   
+[크리스마스 선물 - 14235](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/14235.%E2%80%85%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%E2%80%85%EC%84%A0%EB%AC%BC)   
 [카드 합체 놀이 - 15903](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/15903.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%ED%95%A9%EC%B2%B4%E2%80%85%EB%86%80%EC%9D%B4)   
 [콘센트 - 23843](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/23843.%E2%80%85%EC%BD%98%EC%84%BC%ED%8A%B8)   
 
