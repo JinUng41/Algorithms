@@ -1,0 +1,1 @@
+let g=Int(readLine()!)!;print((g-1)/5+1)
