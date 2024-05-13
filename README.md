@@ -146,6 +146,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
  
 ## 다익스트라, 최단경로
 
+[파티 - 1238](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1238.%E2%80%85%ED%8C%8C%ED%8B%B0)   
 [최단경로 - 1753](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1753.%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)   
 [최소비용 구하기 - 1916](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1916.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)   
 [녹색 옷 입은 애가 젤다지? - 4485](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/4485.%E2%80%85%EB%85%B9%EC%83%89%E2%80%85%EC%98%B7%E2%80%85%EC%9E%85%EC%9D%80%E2%80%85%EC%95%A0%EA%B0%80%E2%80%85%EC%A0%A4%EB%8B%A4%EC%A7%80%EF%BC%9F)   
