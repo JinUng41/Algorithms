@@ -174,3 +174,4 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ## 누적합
 [구간 합 구하기 4 - 11659](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11659.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%854)   
+[이건 꼭 풀어야 해! - 17390](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/17390.%E2%80%85%EC%9D%B4%EA%B1%B4%E2%80%85%EA%BC%AD%E2%80%85%ED%92%80%EC%96%B4%EC%95%BC%E2%80%85%ED%95%B4%EF%BC%81)   
