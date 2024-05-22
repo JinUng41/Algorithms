@@ -1,22 +1,18 @@
 func BOJ_2841(_ N: Int, _ P: Int) {
     var count = 0
-    var stacks = [Int: [Int]]()
+    var stacks = [[Int]](repeating: [], count: N)
     for _ in 0..<N {
         let input = readLine()!.split(separator: " ").map { Int($0)! }
-        let line = input[0], fret = input[1]
+        let line = input[0]-1, fret = input[1]
         
-        if stacks[line] == nil {
-            stacks[line] = []
-        }
-        
-        while let lastFret = stacks[line]?.last,
+        while let lastFret = stacks[line].last,
               lastFret > fret {
-            stacks[line]!.removeLast()
+            stacks[line].removeLast()
             count += 1
         }
         
-        if stacks[line]!.last != fret {
-            stacks[line]!.append(fret)
+        if stacks[line].last != fret {
+            stacks[line].append(fret)
             count += 1
         }
     }
