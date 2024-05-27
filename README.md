@@ -106,6 +106,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
  
 ## 깊이우선탐색
 
+[농장 관리 - 1245](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1245.%E2%80%85%EB%86%8D%EC%9E%A5%E2%80%85%EA%B4%80%EB%A6%AC)   
 [DFS와 BFS - 1260](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS)   
 [바이러스 - 2606](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)   
 [촌수계산 - 2644](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0)   
