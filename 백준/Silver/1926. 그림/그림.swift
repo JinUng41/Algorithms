@@ -10,15 +10,14 @@ func BOJ_1987(_ n: Int, _ m: Int) {
         var stack = [(y, x)]
         isVisit[y][x] = true
         while !stack.isEmpty {
-            let now = stack.removeLast()
+            let (y, x) = stack.removeLast()
             area += 1
             for i in 0..<4 {
-                let newX = now.1+dx[i], newY = now.0+dy[i]
-                guard newY >= 0, newX >= 0, newY < n, newX < m,
-                      graph[newY][newX] == 1, !isVisit[newY][newX]
-                else { continue }
-                isVisit[newY][newX] = true
-                stack.append((newY, newX))
+                let newX = x+dx[i], newY = y+dy[i]
+                if newY >= 0, newX >= 0, newY < n, newX < m, graph[newY][newX] == 1, !isVisit[newY][newX] {
+                    isVisit[newY][newX] = true
+                    stack.append((newY, newX))
+                }
             }
         }
         return area
