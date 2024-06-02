@@ -1,6 +1,6 @@
 let nm = readLine()!.split(separator: " ").map { Int($0)! }
-BOJ_1987(nm[0], nm[1])
-func BOJ_1987(_ n: Int, _ m: Int) {
+BOJ_1926(nm[0], nm[1])
+func BOJ_1926(_ n: Int, _ m: Int) {
     let dx = [0, 0, -1, 1], dy = [-1, 1, 0, 0]
     var isVisit = Array(repeating: Array(repeating: false, count: m), count: n)
     var graph = [[Int]]()
