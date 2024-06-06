@@ -15,6 +15,6 @@ func BOJ_5618(_ n: Int) {
     for i in 1...temp {
         if temp % i == 0 { divisors.append(i) }
     }
-    print(divisors.map { String($0) }.joined(separator: "\n"))
+    print(divisors.map { "\($0)" }.joined(separator: "\n"))
 }
 BOJ_5618(Int(readLine()!)!)
