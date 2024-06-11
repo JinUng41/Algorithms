@@ -1,28 +1,20 @@
 func BOJ_2303(_ N: Int) {
-    var input = [[Int]]()
-    for _ in 0..<N { input.append(readLine()!.split(separator: " ").map { Int($0)! }) }
-    var result = [(Int, Int)]()
-    for index in 0..<N {
-        let line = input[index]
-        var temp = 0
-        for i in 0..<5 {
-            for j in i+1..<5 {
-                for k in j+1..<5 {
-                    let number = (line[i]+line[j]+line[k])%10
-                    temp = max(temp, number)
+    var maxScore = 0, person = 0
+    for i in 0..<N {
+        let input = readLine()!.split(separator: " ").map { Int($0)! }
+        var score = 0
+        for j in 0..<5 {
+            for k in j+1..<5 {
+                for l in k+1..<5 {
+                    score = max(score, (input[j]+input[k]+input[l])%10)
                 }
             }
         }
-        result.append((index+1, temp))
-    }
-    
-    let maxPerson = result.max {
-        if $0.1 == $1.1 {
-            return $0.0 < $1.0
-        } else {
-            return $0.1 < $1.1
+        if maxScore <= score {
+            person = i+1
+            maxScore = score
         }
     }
-    print(maxPerson!.0)
+    print(person)
 }
 BOJ_2303(Int(readLine()!)!)
