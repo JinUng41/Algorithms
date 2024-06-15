@@ -29,6 +29,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [체스판 다시 칠하기 - 1018](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1018.%E2%80%85%EC%B2%B4%EC%8A%A4%ED%8C%90%E2%80%85%EB%8B%A4%EC%8B%9C%E2%80%85%EC%B9%A0%ED%95%98%EA%B8%B0)   
 [한수 - 1065](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98)   
 [영화감독 숌 - 1436](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C)   
+[날짜 계산 - 1476](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1476.%E2%80%85%EB%82%A0%EC%A7%9C%E2%80%85%EA%B3%84%EC%82%B0)   
 [수들의 합 2 - 2003](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2003.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852) ⭐   
 [숫자 게임 - 2303](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2303.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84)   
 [블랙잭 - 2798](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2798.%E2%80%85%EB%B8%94%EB%9E%99%EC%9E%AD)   
