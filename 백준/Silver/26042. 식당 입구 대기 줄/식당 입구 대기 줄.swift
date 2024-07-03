@@ -13,23 +13,22 @@ struct Queue<T> {
 }
 func BOJ_3986(_ n: Int) {
     var queue = Queue<Int>()
-    var maxQueueCount = 0, lastStudentMAtMax = 0
+    var maxCount = 0, lastStudent = 0
     for _ in 0..<n {
         let input = readLine()!.split(separator: " ")
-        
         if input[0] == "1" {
-            let studentNumber = Int(input[1])!
-            queue.enq(studentNumber)
-            if queue.count > maxQueueCount {
-                maxQueueCount = queue.count
-                lastStudentMAtMax = studentNumber
-            } else if queue.count == maxQueueCount {
-                lastStudentMAtMax = min(lastStudentMAtMax, studentNumber)
+            let student = Int(input[1])!
+            queue.enq(student)
+            if queue.count > maxCount {
+                maxCount = queue.count
+                lastStudent = student
+            } else if queue.count == maxCount {
+                lastStudent = min(lastStudent, student)
             }
-        } else if input[0] == "2" {
+        } else {
             _ = queue.deq()
         }
     }
-    print(maxQueueCount, lastStudentMAtMax)
+    print(maxCount, lastStudent)
 }
 BOJ_3986(Int(readLine()!)!)
