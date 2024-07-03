@@ -77,6 +77,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [프린터 큐 - 1966](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1966.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0%E2%80%85%ED%81%90)   
 [카드2 - 2164](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2)   
 [큐 - 10845](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/10845.%E2%80%85%ED%81%90)   
+[식당 입구 대기 줄 - 26042](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/26042.%E2%80%85%EC%8B%9D%EB%8B%B9%E2%80%85%EC%9E%85%EA%B5%AC%E2%80%85%EB%8C%80%EA%B8%B0%E2%80%85%EC%A4%84)   
 [최애의 팀원 - 29813](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/29813.%E2%80%85%EC%B5%9C%EC%95%A0%EC%9D%98%E2%80%85%ED%8C%80%EC%9B%90)   
 
 <br>
