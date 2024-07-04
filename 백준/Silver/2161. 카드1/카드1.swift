@@ -1,7 +1,9 @@
 struct Queue<T> {
     var isEmpty: Bool { input.isEmpty && output.isEmpty }
     var count: Int { input.count + output.count }
-    private var input = [T](), output = [T]()
+    private var input: [T]
+    private var output = [T]()
+    init(_ input: [T]) { self.input = input }
     mutating func enq(_ new: T) { input.append(new) }
     mutating func deq() -> T {
         if output.isEmpty {
@@ -12,8 +14,7 @@ struct Queue<T> {
     }
 }
 func BOJ_2161(_ N: Int) {
-    var queue = Queue<Int>()
-    for i in 1...N { queue.enq(i) }
+    var queue = Queue<Int>(Array(1...N))
     var result = ""
     while queue.count != 1 {
         result += "\(queue.deq()) "
