@@ -15,7 +15,7 @@ func BOJ_15654(_ N: Int, _ M: Int) {
                 isVisit[i] = true
                 backTracking()
                 isVisit[i] = false
-                _ = arr.popLast()
+                arr.removeLast()
             }
         }
     }
