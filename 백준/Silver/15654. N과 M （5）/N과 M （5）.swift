@@ -1,24 +1,22 @@
-let NM = readLine()!.split(separator: " ").map { Int($0)! }
-BOJ_15654(NM[0], NM[1])
-func BOJ_15654(_ N: Int, _ M: Int) {
+func BOJ_15651(_ N: Int, _ M: Int) {
     let input = readLine()!.split(separator: " ").map { Int($0)! }.sorted()
-    var arr = [Int](), isVisit = Array(repeating: false, count: N+1)
+    var arr = [String](), isVisit = Array(repeating: false, count: N+1)
     var result = ""
-    func backTracking() {
-        if arr.count == M {
-            result += "\(arr.map { "\($0)" }.joined(separator: " "))\n"
+    func foo(_ depth: Int) {
+        if depth == M {
+            result += "\(arr.joined(separator: " "))\n"
             return
         }
-        for i in 1...N {
-            if !isVisit[i] {
-                arr.append(input[i-1])
-                isVisit[i] = true
-                backTracking()
-                isVisit[i] = false
-                arr.removeLast()
-            }
+        for i in 1...N where !isVisit[i] {
+            isVisit[i] = true
+            arr.append("\(input[i-1])")
+            foo(depth+1)
+            arr.removeLast()
+            isVisit[i] = false
         }
     }
-    backTracking()
+    foo(0)
     print(result)
 }
+let NM = readLine()!.split(separator: " ").map { Int($0)! }
+BOJ_15651(NM[0], NM[1])
