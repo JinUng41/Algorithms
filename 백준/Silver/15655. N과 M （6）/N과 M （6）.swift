@@ -7,7 +7,7 @@ func BOJ_15651(_ N: Int, _ M: Int) {
             result += "\(arr.joined(separator: " "))\n"
             return
         }
-        for i in depth..<N where !arr.contains("\(input[i])") {
+        for i in depth..<N {
             arr.append("\(input[i])")
             foo(i+1)
             arr.removeLast()
