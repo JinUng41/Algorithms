@@ -202,3 +202,4 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [N과 M (3) - 15651](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/15651.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%883%EF%BC%89)   
 [N과 M (4) - 15652](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/15652.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%884%EF%BC%89)   
 [N과 M (5) - 15654](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/15654.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%885%EF%BC%89)   
+[N과 M (6) - 15655](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/15655.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%886%EF%BC%89)   
