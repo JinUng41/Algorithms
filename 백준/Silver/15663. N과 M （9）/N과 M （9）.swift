@@ -1,19 +1,16 @@
 func solution(_ N: Int, _ M: Int, _ numbers: [Int]) {
     var arr = [String](), isVisit = Array(repeating: false, count: N)
-    var check = Set<String>()
     var result = ""
     func foo() {
+        var temp = 0
         if arr.count == M {
-            let temp = "\(arr.joined(separator: " "))"
-            if !check.contains(temp) {
-                result += "\(temp)\n"
-                check.insert(temp)
-            }
+            result += "\(arr.joined(separator: " "))\n"
             return
         }
-        for i in 0..<N where !isVisit[i] {
+        for i in 0..<N where !isVisit[i] && temp != numbers[i] {
             isVisit[i] = true
             arr.append("\(numbers[i])")
+            temp = numbers[i]
             foo()
             arr.removeLast()
             isVisit[i] = false
