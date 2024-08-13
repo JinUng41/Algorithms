@@ -7,7 +7,6 @@ func solution(_ N: Int, _ M: Int, _ numbers: [Int]) {
             result += "\(arr.joined(separator: " "))\n"
             return
         }
-        if depth >= N { return }
         for i in depth..<N where !isVisit[i] && temp != numbers[i] {
             isVisit[i] = true
             arr.append("\(numbers[i])")
