@@ -24,13 +24,12 @@ func solution(_ k: Int, _ n: Int, _ participants: [Character]) {
     var result = Array(repeating: "*", count: k-1)
     for i in 0..<k-1 where start[i] != end[i] {
         guard start[i] == end[i+1], start[i+1] == end[i] else {
-            result = Array(repeating: "x", count: k-1)
-            break
+            print(String(repeating: "x", count: k-1))
+            return
         }
         result[i] = "-"
         start.swapAt(i, i+1)
     }
-    
     print(result.joined())
 }
 solution(Int(readLine()!)!, Int(readLine()!)!, readLine()!.map { ($0) })
