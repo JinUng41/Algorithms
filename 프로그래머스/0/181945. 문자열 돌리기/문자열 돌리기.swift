@@ -1,3 +1,3 @@
 import Foundation
 
-readLine()!.forEach { print($0) }
+print(readLine()!.map { "\($0)" }.joined(separator: "\n"))
