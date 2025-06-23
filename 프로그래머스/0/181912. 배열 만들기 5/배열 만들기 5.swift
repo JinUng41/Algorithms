@@ -1,11 +1,11 @@
 import Foundation
 
 func solution(_ intStrs:[String], _ k:Int, _ s:Int, _ l:Int) -> [Int] {
-    var ret = [Int]()
-    for str in intStrs {
-        let temp = str.map { String($0) }
-        let num = Int(temp[s..<s + l].joined())!
-        if num > k { ret.append(num) }
-    } 
-    return ret
+    return intStrs.compactMap { str in
+        let startIndex = str.index(str.startIndex, offsetBy: s)
+        let endIndex = str.index(startIndex, offsetBy: l)
+        let substring = String(str[startIndex..<endIndex])
+        let num = Int(substring)!
+        return num > k ? num : nil
+    }
 }
