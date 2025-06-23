@@ -2,16 +2,9 @@ import Foundation
 
 func solution(_ hp:Int) -> Int {
     var sum = 0, hp = hp
-    if hp / 5 != 0 {
-        sum += (hp / 5)
-        hp %= 5
+    for i in [5, 3, 1] where hp / i != 0 {
+        sum += (hp / i)
+        hp %= i
     }
-    
-    if hp / 3 != 0 {
-        sum += (hp / 3)
-        hp %= 3
-    }
-    
-    sum += hp
     return sum
 }
