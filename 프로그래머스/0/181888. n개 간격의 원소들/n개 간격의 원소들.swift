@@ -1,9 +1,5 @@
 import Foundation
 
 func solution(_ num_list:[Int], _ n:Int) -> [Int] {
-    var arr = [Int]()
-    for i in stride(from: 0, to: num_list.count, by: n) {
-        arr.append(num_list[i])
-    }
-    return arr
+    return stride(from: 0, to: num_list.count, by: n).map { num_list[$0] }
 }
