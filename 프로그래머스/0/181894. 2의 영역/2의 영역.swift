@@ -1,18 +1,8 @@
 import Foundation
 
 func solution(_ arr:[Int]) -> [Int] {
-    var indices = [Int]()
-    for i in 0..<arr.count where arr[i] == 2 {
-        indices.append(i)
+    guard let firstIndex = arr.firstIndex(of: 2), let lastIndex = arr.lastIndex(of: 2) else {
+        return [-1]
     }
-    
-    if indices.isEmpty {
-        return [-1]    
-    }
-    
-    if indices.count == 1 {
-        return [arr[indices.first!]]
-    }
-    
-    return Array(arr[indices[0]...indices[indices.count - 1]])
+    return Array(arr[firstIndex...lastIndex])
 }
