@@ -1,10 +1,6 @@
 import Foundation
 
 func solution(_ my_string:String) -> String {
-    let vowels = ["a", "e", "i", "o", "u"]
-    var temp = my_string
-    for vowel in vowels {
-        temp = temp.replacingOccurrences(of: vowel, with: "")
-    }
-    return temp
+    let vowels: Set<String> = ["a", "e", "i", "o", "u"]
+    return my_string.filter { !vowels.contains("\($0)") }
 }
