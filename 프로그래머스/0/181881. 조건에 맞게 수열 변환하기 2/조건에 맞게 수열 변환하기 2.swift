@@ -2,20 +2,28 @@ import Foundation
 
 func solution(_ arr:[Int]) -> Int {
     var x = 0
-    var currentArr = arr
+    var tempArr = arr
     
     while true {
-        let previousArr = currentArr
-        currentArr = currentArr.map {
-            if $0 >= 50 && $0 % 2 == 0 {
-                return $0 / 2
-            } else if $0 < 50 && $0 % 2 != 0 {
-                return $0 * 2 + 1
-            } else {
-                return $0
+        var isChanged = false
+        
+        for i in 0..<tempArr.count {
+            let originalValue = tempArr[i]
+            var newValue = originalValue
+            
+            if originalValue >= 50 && originalValue % 2 == 0 {
+                newValue = originalValue / 2
+            } else if originalValue < 50 && originalValue % 2 != 0 {
+                newValue = originalValue * 2 + 1
+            }
+            
+            if newValue != originalValue {
+                tempArr[i] = newValue
+                isChanged = true
             }
         }
-        if previousArr == currentArr { break }
+        
+        if !isChanged { break }
         x += 1
     }
     return x
