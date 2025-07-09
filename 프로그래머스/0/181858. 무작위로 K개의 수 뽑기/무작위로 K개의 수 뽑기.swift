@@ -1,15 +1,24 @@
 import Foundation
 
 func solution(_ arr:[Int], _ k:Int) -> [Int] {
-    var result = [Int]()
-    for i in 0..<arr.count where !result.contains(arr[i]) && result.count < k {
-        result.append(arr[i])
-    }
+    var result: [Int] = []
+    var seen = Set<Int>()
     
-    if result.count < k {
-        for _ in 0..<(k - result.count) {
-            result.append(-1)
+    for num in arr {
+        if result.count == k {
+            break
+        }
+        
+        if !seen.contains(num) {
+            result.append(num)
+            seen.insert(num)
         }
     }
+    
+    let remainingCount = k - result.count
+    if remainingCount > 0 {
+        result.append(contentsOf: Array(repeating: -1, count: remainingCount))
+    }
+    
     return result
 }
