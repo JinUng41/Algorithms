@@ -1,27 +1,23 @@
 import Foundation
 
 func solution(_ keyinput:[String], _ board:[Int]) -> [Int] {
-    let maxX = (board[0] - 1) / 2, maxY = (board[1] - 1) / 2
-    var x = 0, y = 0
+    let xLimit = (board[0] - 1) / 2, yLimit = (board[1] - 1) / 2
+    var position = [0, 0]
+    
     for key in keyinput {
-        var tempX = x, tempY = y
         switch key {
-        case "up":
-            tempY += 1
-        case "down":
-            tempY -= 1
-        case "left":
-            tempX -= 1
-        case "right":
-            tempX += 1
+        case "up" where position[1] < yLimit:
+            position[1] += 1
+        case "down" where position[1] > -yLimit:
+            position[1] -= 1
+        case "left" where position[0] > -xLimit:
+            position[0] -= 1
+        case "right" where position[0] < xLimit:
+            position[0] += 1
         default:
             break
         }
-        
-        if abs(tempX) <= maxX, abs(tempY) <= maxY {
-            x = tempX
-            y = tempY
-        }
     }
-    return [x, y]
+    
+    return position
 }
