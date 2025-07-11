@@ -1,11 +1,6 @@
 import Foundation
 
 func solution(_ numbers:[Int]) -> Int {
-    var n = Int.min
-    for i in 0..<numbers.count {
-        for j in i + 1..<numbers.count {
-            n = max(n, numbers[i] * numbers[j])
-        }
-    }
-    return n
+    let arr = numbers.sorted()
+    return max(arr[0] * arr[1], arr[arr.count - 2] * arr[arr.count - 1])
 }
