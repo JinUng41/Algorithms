@@ -1,8 +1,5 @@
 import Foundation
 
 func solution(_ my_string: String) -> Int {
-    return my_string
-        .components(separatedBy: CharacterSet.decimalDigits.inverted)
-        .compactMap { Int($0) }
-        .reduce(0, +)
+    return my_string.split { !$0.isNumber }.reduce(0) { $0 + Int($1)! }
 }
