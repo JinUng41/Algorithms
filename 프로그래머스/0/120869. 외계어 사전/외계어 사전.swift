@@ -1,17 +1,13 @@
 import Foundation
 
-func solution(_ spell:[String], _ dic:[String]) -> Int {
-    var result = [String]()
-    for string in dic {
-        var flag = true
-        for s in spell where !string.contains(s) {
-            flag = false
-            break
+func solution(_ spell: [String], _ dic: [String]) -> Int {
+    let spellSet = Set(spell)
+
+    let isMatchFound = dic.contains { word in
+        if word.count != spellSet.count {
+            return false
         }
-        
-        if flag {
-            result.append(string)
-        }
+        return Set(word) == Set(spell.joined())
     }
-    return result.isEmpty ? 2 : 1
+    return isMatchFound ? 1 : 2
 }
