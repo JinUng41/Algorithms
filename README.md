@@ -37,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [블랙잭 - 2798](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2798.%E2%80%85%EB%B8%94%EB%9E%99%EC%9E%AD)   
 [셀프 넘버 - 4673](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/4673.%E2%80%85%EC%85%80%ED%94%84%E2%80%85%EB%84%98%EB%B2%84)   
 [덩치 - 7568](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/7568.%E2%80%85%EB%8D%A9%EC%B9%98)   
+[백설 공주와 일곱 난쟁이 - 3040](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Bronze/3040.%E2%80%85%EB%B0%B1%EC%84%A4%E2%80%85%EA%B3%B5%EC%A3%BC%EC%99%80%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4)   
 
 <br>
 
