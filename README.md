@@ -55,6 +55,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [밥 - 23559](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/23559.%E2%80%85%EB%B0%A5)   
 [Potato - 28464](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/28464.%E2%80%85Potato)   
 [회의실 배정 - 30827](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/30827.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95)   
+[전자레인지 - 10162](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10162.%E2%80%85%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80)   
 
 <br>
 
