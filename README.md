@@ -71,6 +71,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 [도키도키 간식드리미 - 12789](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/12789.%E2%80%85%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%E2%80%85%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8)   
 [포스택 - 25556](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/25556.%E2%80%85%ED%8F%AC%EC%8A%A4%ED%83%9D) ⭐⭐   
 [스택 2 - 28278](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/28278.%E2%80%85%EC%8A%A4%ED%83%9D%E2%80%852)   
+[막대기 - 17608](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Bronze/17608.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0)   
 
 <br>
 
