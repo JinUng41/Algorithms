@@ -1,4 +1,3 @@
 func solution(_ seoul:[String]) -> String {
-    let index = seoul.firstIndex { $0 == "Kim" }
-    return "김서방은 \(index!)에 있다"
+    return "김서방은 \(seoul.firstIndex { $0 == "Kim" }!)에 있다"
 }
