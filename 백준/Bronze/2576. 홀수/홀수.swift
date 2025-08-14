@@ -1,11 +1,8 @@
 var numbers = [Int]()
 for _ in 0..<7 {
-    numbers.append(Int(readLine()!)!)
+    let n = Int(readLine()!)!
+    if n % 2 == 1 {
+        numbers.append(n)
+    }
 }
-numbers = numbers.filter { $0 % 2 == 1 }
-if numbers.isEmpty {
-    print(-1)
-} else {
-    print(numbers.reduce(0, +))
-    print(numbers.min()!)
-}
+print(numbers.isEmpty ? -1 : "\(numbers.reduce(0, +))\n\(numbers.min()!)")
