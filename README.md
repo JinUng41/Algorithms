@@ -91,7 +91,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 [카드 - 1835](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1835.%E2%80%85%EC%B9%B4%EB%93%9C)   
 [카드 문자열 - 13417](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/13417.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4)   
-[카드 놓기 - 18115](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/18115.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%86%93%EA%B8%B0)   
+[카드 놓기 - 18115](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/18115.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%86%93%EA%B8%B0)  
+[덱 - 10866](https://github.com/JinUng41/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/10866.%E2%80%85%EB%8D%B1)   
+
 
 <br>
 
