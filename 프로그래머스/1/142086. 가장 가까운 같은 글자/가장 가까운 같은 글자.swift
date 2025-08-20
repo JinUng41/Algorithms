@@ -1,16 +1,16 @@
 import Foundation
 
-func solution(_ s:String) -> [Int] {
-    var result = [Int](repeating: -1, count: s.count)
-    var alphabets = [Int](repeating: -1, count: 26)
-    Array(s.lowercased()).enumerated().forEach { index, char in 
-        let asciiValue = Int(char.asciiValue!) - 97
-        let value = alphabets[asciiValue]
+func solution(_ s: String) -> [Int] {
+    var result: [Int] = []
+    var lastSeenIndex: [Character: Int] = [:]
 
-        if value != -1 {
-            result[index] = index - value
+    for (currentIndex, char) in s.lowercased().enumerated() {
+        if let previousIndex = lastSeenIndex[char] {
+            result.append(currentIndex - previousIndex)
+        } else {
+            result.append(-1)
         }
-        alphabets[asciiValue] = index
+        lastSeenIndex[char] = currentIndex
     }
     return result
 }
