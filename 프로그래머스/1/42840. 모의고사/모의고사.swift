@@ -16,6 +16,10 @@ func solution(_ answers:[Int]) -> [Int] {
         }
     }
     
-    let maxScore = scores.max()
-    return scores.enumerated().filter { $0.element == maxScore ?? .zero }.map { $0.offset + 1 }
+    let maxScore = scores.max()!
+    var result = [Int]()
+    for (index, value) in scores.enumerated() where value == maxScore {
+        result.append(index + 1)
+    }
+    return result
 }
