@@ -1,9 +1,9 @@
 def solution(s):
     arr = s.split(' ')
     stack = []
-    for i in range(len(arr)):
-        if arr[i] == 'Z':
+    for char in arr:
+        if char == 'Z':
             stack.pop()
         else:
-            stack.append(int(arr[i]))
+            stack.append(int(char))
     return sum(stack)
