@@ -1,7 +1,5 @@
 n = int(input())
-words = set()
-for _ in range(n):
-    words.add(input().strip())
-result = list(words)
-result.sort(key=lambda x: (len(x), x))
-print('\n'.join(result))
+words = [str(input()) for _ in range(n)]
+words = list(set(words))
+words.sort(key=lambda x: (len(x), x))
+print('\n'.join(words))
