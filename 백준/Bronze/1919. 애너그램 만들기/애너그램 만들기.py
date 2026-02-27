@@ -1,11 +1,9 @@
-a = input().strip()
-b = input().strip()
+a = input()
+b = input()
 
 count = {}
-
 for char in a:
     count[char] = count.get(char, 0) + 1
-
 for char in b:
     count[char] = count.get(char, 0) - 1
 
