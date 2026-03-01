@@ -1,21 +1,19 @@
 import sys
 
 input = sys.stdin.readline
-
 n = int(input())
 stack = []
 result = []
 for _ in range(n):
     command = input().split()
-    action = command[0]
-    if action == "push":
+    if command[0] == "push":
         stack.append(int(command[1]))
-    elif action == "pop":
+    elif command[0] == "pop":
         result.append(str(stack.pop() if stack else -1))
-    elif action == "size":
+    elif command[0] == "size":
         result.append(str(len(stack)))
-    elif action == "empty":
+    elif command[0] == "empty":
         result.append("0" if stack else "1")
-    elif action == "top":
+    elif command[0] == "top":
         result.append(str(stack[-1] if stack else -1))
 sys.stdout.write("\n".join(result))
