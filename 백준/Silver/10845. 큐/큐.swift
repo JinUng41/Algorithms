@@ -1,28 +1,42 @@
-let N = Int(readLine()!)!
-var array = [String]()
-var index = 0
+import Foundation
 
-for _ in 1...N {
-    let order = readLine()!.split(separator: " ").map { "\($0)" }
-    switch order[0] {
-    case "push":
-        array.append(order[1])
-    case "pop":
-        if array.count <= index {
-            print(-1)
+let n = Int(readLine()!)!
+
+var queue: [Int] = []
+var head = 0
+var output: [String] = []
+
+let handlers: [String: ([String]) -> Void] = [
+    "push": { args in
+        queue.append(Int(args[0])!)
+    },
+    "pop": { _ in
+        if head < queue.count {
+            output.append(String(queue[head]))
+            head += 1
         } else {
-            print(array[index])
-            index += 1
+            output.append("-1")
         }
-    case "size":
-        print(array.count - index)
-    case "empty":
-        print(array.count <= index ? 1 : 0)
-    case "front":
-        print(array.count <= index ? -1 : array[index])
-    case "back":
-        print(array.count <= index ? -1 : array.last!)
-    default:
-        continue
+    },
+    "size": { _ in
+        output.append(String(queue.count - head))
+    },
+    "empty": { _ in
+        output.append(head < queue.count ? "0" : "1")
+    },
+    "front": { _ in
+        output.append(head < queue.count ? String(queue[head]) : "-1")
+    },
+    "back": { _ in
+        output.append(head < queue.count ? String(queue[queue.count - 1]) : "-1")
     }
+]
+
+for _ in 0..<n {
+    let parts = readLine()!.split(separator: " ").map(String.init)
+    let op = parts[0]
+    let args = Array(parts.dropFirst())
+    handlers[op]?(args)
 }
+
+print(output.joined(separator: "\n"))
