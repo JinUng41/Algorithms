@@ -5,18 +5,19 @@ input = sys.stdin.readline
 n = int(input())
 d = deque()
 result = []
+
+handlers = {
+    "push": lambda args: d.append(int(args[0])),
+    "pop": lambda _: result.append(str(d.popleft() if d else -1)),
+    "size": lambda _: result.append(str(len(d))),
+    "empty": lambda _: result.append("1" if not d else "0"),
+    "front": lambda _: result.append(str(d[0] if d else -1)),
+    "back": lambda _: result.append(str(d[-1] if d else -1)),
+}
+
 for _ in range(n):
     command = input().split()
-    if command[0] == "push":
-        d.append(int(command[1]))
-    elif command[0] == "pop":
-        result.append(str(-1 if not d else d.popleft()))
-    elif command[0] == "size":
-        result.append(str(len(d)))
-    elif command[0] == "empty":
-        result.append(str(1 if not d else 0))
-    elif command[0] == "front":
-        result.append(str(-1 if not d else d[0]))
-    elif command[0] == "back":
-        result.append(str(-1 if not d else d[-1]))
+    op, args = command[0], command[1:]
+    handlers[op](args)
+
 sys.stdout.write("\n".join(result))
