@@ -4,20 +4,18 @@ input = sys.stdin.readline
 
 q = deque()
 result = []
-
-handlers = {
-    "push": lambda x: q.append(int(x)),
-    "pop": lambda: result.append(q.popleft() if q else -1),
-    "size": lambda: result.append(len(q)),
-    "empty": lambda: result.append(0 if q else 1),
-    "front": lambda: result.append(q[0] if q else -1),
-    "back": lambda: result.append(q[-1] if q else -1),
-}
-
 for _ in range(int(input())):
     command = input().split()
-    cmd = command[0]
-    args = command[1:]
-    handlers[cmd](*args)
-
+    if command[0] == "push":
+        q.append(int(command[1]))
+    elif command[0] == "pop":
+        result.append(q.popleft() if q else -1)
+    elif command[0] == "size":
+        result.append(len(q))
+    elif command[0] == "empty":
+        result.append(0 if q else 1)
+    elif command[0] == "front":
+        result.append(q[0] if q else -1)
+    elif command[0] == "back":
+        result.append(q[-1] if q else -1)
 sys.stdout.write("\n".join(map(str, result)) + "\n")
