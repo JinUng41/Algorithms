@@ -1,11 +1,7 @@
 n = int(input())
-arr = list(map(int, input().split()))
+sizes = list(map(int, input().split()))
 t, p = map(int, input().split())
-sum = 0
-for i in arr:
-    if i % t > 0:
-        sum += (i//t + 1)
-    else:
-        sum += i//t
-print(sum)
-print(str(n//p) + " " + str(n%p))
+shirt_bundles = sum((size + t - 1) // t for size in sizes)
+pen_bundles, pen_singles = divmod(n, p)
+print(shirt_bundles)
+print(pen_bundles, pen_singles)
