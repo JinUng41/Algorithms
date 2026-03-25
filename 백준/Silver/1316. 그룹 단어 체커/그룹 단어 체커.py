@@ -4,17 +4,16 @@ input = sys.stdin.readline
 count = 0
 for _ in range(int(input())):
     word = input().strip()
-    prev = ""
-    seen = set()
+    seen = {word[0]}
     is_group_word = True
 
-    for char in word:
-        if char != prev:
-            if char in seen:
-                is_group_word = False
-                break
-            seen.add(char)
-        prev = char
+    for i in range(1, len(word)):
+        if word[i] == word[i - 1]:
+            continue
+        if word[i] in seen:
+            is_group_word = False
+            break
+        seen.add(word[i])
 
     if is_group_word:
         count += 1
