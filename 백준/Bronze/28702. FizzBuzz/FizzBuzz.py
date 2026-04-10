@@ -6,8 +6,8 @@ for i in range(1, 4):
     str_arr.append(text)
     if text != 'FizzBuzz' and text != 'Fizz' and text != 'Buzz':
         num = int(text)
-        idx = 4 - i
-num += idx
+        more = 4 - i
+num += more
 if num % 5 == 0 and num % 3 == 0:
     print('FizzBuzz')
 elif num % 3 == 0:
