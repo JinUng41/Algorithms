@@ -1,9 +1,7 @@
-str_arr = []
 more = 0
 num = 0
 for i in range(1, 4):
     text = input()
-    str_arr.append(text)
     if text != 'FizzBuzz' and text != 'Fizz' and text != 'Buzz':
         num = int(text)
         more = 4 - i
