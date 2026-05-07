@@ -222,6 +222,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JinUng41/Algorithms/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/JinUng41/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/JinUng41/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JinUng41/Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/JinUng41/Algorithms/tree/master/1672-richest-customer-wealth) |
@@ -246,6 +247,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/JinUng41/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/JinUng41/Algorithms/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -266,4 +268,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/JinUng41/Algorithms/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/JinUng41/Algorithms/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
