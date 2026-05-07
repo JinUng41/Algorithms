@@ -224,6 +224,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0001-two-sum](https://github.com/JinUng41/Algorithms/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/JinUng41/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JinUng41/Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/JinUng41/Algorithms/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,4 +253,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/JinUng41/Algorithms/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/JinUng41/Algorithms/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
