@@ -222,6 +222,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JinUng41/Algorithms/tree/master/0001-two-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/JinUng41/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JinUng41/Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -247,4 +248,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/JinUng41/Algorithms/tree/master/0443-string-compression) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/JinUng41/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
