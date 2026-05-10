@@ -235,6 +235,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/JinUng41/Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JinUng41/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/JinUng41/Algorithms/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/JinUng41/Algorithms/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -244,6 +245,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JinUng41/Algorithms/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/JinUng41/Algorithms/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/JinUng41/Algorithms/tree/master/0415-add-strings) |
 | [1512-number-of-good-pairs](https://github.com/JinUng41/Algorithms/tree/master/1512-number-of-good-pairs) |
 ## Recursion
@@ -255,6 +257,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JinUng41/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JinUng41/Algorithms/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/JinUng41/Algorithms/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/JinUng41/Algorithms/tree/master/0443-string-compression) |
 ## String
 |  |
