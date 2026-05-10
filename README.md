@@ -243,6 +243,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JinUng41/Algorithms/tree/master/0002-add-two-numbers) |
+| [0415-add-strings](https://github.com/JinUng41/Algorithms/tree/master/0415-add-strings) |
 | [1512-number-of-good-pairs](https://github.com/JinUng41/Algorithms/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -259,6 +260,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JinUng41/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/JinUng41/Algorithms/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/JinUng41/Algorithms/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/JinUng41/Algorithms/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/JinUng41/Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/JinUng41/Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -270,6 +272,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/JinUng41/Algorithms/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/JinUng41/Algorithms/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/JinUng41/Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
