@@ -222,6 +222,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JinUng41/Algorithms/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/JinUng41/Algorithms/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/JinUng41/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/JinUng41/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JinUng41/Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -259,6 +260,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JinUng41/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/JinUng41/Algorithms/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/JinUng41/Algorithms/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/JinUng41/Algorithms/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/JinUng41/Algorithms/tree/master/0443-string-compression) |
@@ -287,4 +289,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/JinUng41/Algorithms/tree/master/1512-number-of-good-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JinUng41/Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
