@@ -245,6 +245,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JinUng41/Algorithms/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/JinUng41/Algorithms/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/JinUng41/Algorithms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/JinUng41/Algorithms/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/JinUng41/Algorithms/tree/master/0415-add-strings) |
