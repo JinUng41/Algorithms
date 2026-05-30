@@ -242,6 +242,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JinUng41/Algorithms/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/JinUng41/Algorithms/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +257,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JinUng41/Algorithms/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/JinUng41/Algorithms/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
