@@ -269,6 +269,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0003-longest-substring-without-repeating-characters](https://github.com/JinUng41/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/JinUng41/Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/JinUng41/Algorithms/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/JinUng41/Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/JinUng41/Algorithms/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/JinUng41/Algorithms/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/JinUng41/Algorithms/tree/master/0443-string-compression) |
@@ -306,4 +307,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/JinUng41/Algorithms/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JinUng41/Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
